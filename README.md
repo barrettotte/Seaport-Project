@@ -6,10 +6,13 @@ data file and generates a world containing seaports, docks, ships, people. After
 arriving at a dock and completing work. Each job requires a person with a special skillset and will only be completed if that person
 is at the port they docked at.
 
-# Project Sections:
+# Project Sections
 1. Read a data file, create the internal data structure, create a GUI to display the structure, and let
 the user search the structure.
 2. Sort the structure, use hash maps to create the structure more efficiently.
 3. Create a thread for each job, cannot run until a ship has a dock, create a GUI to show the
 progress of each job.
 4. Simulate competing for resources (persons with particular skills) for each job.
+
+# Final Screenshot
+![final_screenshot_01](https://user-images.githubusercontent.com/15623775/31401633-83380636-adc1-11e7-9330-70b8640af407.PNG)
