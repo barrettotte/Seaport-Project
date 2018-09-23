@@ -1,9 +1,12 @@
 # Seaport-Project
 Object Oriented and Concurrent Programming course semester project
 
-This project was split into four parts to be completed throughout the 8 week semester. To summarize, this program reads in a formatted
-data file and generates a world containing seaports, docks, ships, people. After reading in the file, it begins to simulate ships
-arriving at a dock and completing work. Each job requires a person with a special skillset and will only be completed if that person
+* This project was split into four parts to be completed throughout the 8 week semester.
+* To summarize, this program reads in a formatted
+data file and generates a world containing seaports, docks, ships, people. 
+* After reading in the file, it begins to simulate ships
+arriving at a dock and completing work.
+* Each job requires a person with a special skillset and will only be completed if that person
 is at the port they docked at.
 
 # Project Sections
